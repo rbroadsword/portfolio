@@ -15,13 +15,13 @@ body {
   background-image: url(../rainbow.jpg);
 }
 
-img {
-  height: 25rem;
-  width: 35rem;
-  float: right;
+img{
+  
   border: black solid .2rem;
-  margin: 2rem;
+  
 }
+
+
 
 nav {
   min-height: 10vh;
