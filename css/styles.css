@@ -16,6 +16,10 @@ body {
 
 img {
   border: black solid .5rem;
+  float: right;
+  height: 25rem;
+  width: 35rem;
+  margin: 1rem;
 }
 
 nav {
@@ -35,4 +39,6 @@ nav ul {
   align-items: center;
   list-style: none;
 }
+
+.about-me
 
