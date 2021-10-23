@@ -11,17 +11,14 @@
 }
 
 body {
-  background-color: rgba(255, 20, 216, 0.445);
   font-family: 'Poppins', sans-serif;
   background-image: url(../rainbow.jpg);
 }
 
 img {
-  border: black solid .5rem;
   float: right;
   height: 25rem;
   width: 35rem;
-  margin: 1rem;
 }
 
 nav {
@@ -46,17 +43,26 @@ nav ul {
   min-height: 30vh;
   margin: 2rem; 
   padding: 1rem;
+  background-color: rgb(172, 26, 152);
+  color: white;
+  border: black solid .5rem;
 }
 
 .background {
   min-height: 40vh;
   margin: 2rem;
   padding: 1rem; 
+  background-color: rgb(172, 26, 152);
+  color: white;
+  border: black solid .5rem;
 }
 
 .projects {
   min-height: 50vh;
   margin: 2rem;
   padding: 1rem;
+  background-color: rgb(172, 26, 152);
+  color: white;
+  border: black solid .5rem;
 }
 
