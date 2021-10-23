@@ -20,3 +20,11 @@ nav {
   flex-wrap: wrap;
 }
 
+nav ul {
+  display: flex;
+  flex: 1 1 40rem;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
