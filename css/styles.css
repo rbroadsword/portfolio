@@ -18,6 +18,9 @@ body {
 img {
   height: 25rem;
   width: 35rem;
+  float: right;
+  border: black solid .2rem;
+  margin: 2rem;
 }
 
 nav {
@@ -44,16 +47,17 @@ nav ul {
   padding: 1rem;
   background-color: rgb(172, 26, 152);
   color: white;
-  border: black solid .5rem;
+  border: black solid .2rem;
 }
 
 .background {
   min-height: 40vh;
+  width: 50vw;
   margin: 2rem;
   padding: 1rem; 
   background-color: rgb(172, 26, 152);
   color: white;
-  border: black solid .5rem;
+  border: black solid .2rem;
 }
 
 .projects {
@@ -62,6 +66,6 @@ nav ul {
   padding: 1rem;
   background-color: rgb(172, 26, 152);
   color: white;
-  border: black solid .5rem;
+  border: black solid .2rem;
 }
 
