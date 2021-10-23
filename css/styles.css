@@ -10,6 +10,10 @@
   position: sticky;
 }
 
+body {
+  background-color: rgba(255, 20, 216, 0.445);
+}
+
 nav {
   min-height: 10vh;
   display: flex;
