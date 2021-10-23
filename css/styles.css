@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-head { 
+  background-color: darkslategray;
+  color: white;
+  position: sticky;
+}
+
+nav {
+  min-height: 10vh;
+  display: flex;
+  width: 90%;
+  margin: auto;
+  padding: 2rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
