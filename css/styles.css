@@ -16,9 +16,10 @@ body {
 }
 
 img{
-  
+  float: right;
   border: black solid .2rem;
-  
+  width: 25rem;
+  height: 20rem: 
 }
 
 
