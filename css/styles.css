@@ -41,6 +41,9 @@ a:link {
   color: white;
 }
 
+nav h1 {
+  font-size: 3rem;
+}
 nav ul {
   display: flex;
   flex: 1 1 40rem;
@@ -75,5 +78,22 @@ nav ul {
   background-color: rgb(172, 26, 152);
   color: white;
   border: black solid .2rem;
+}
+
+p {
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
 }
 
