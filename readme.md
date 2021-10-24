@@ -18,7 +18,7 @@ A webpage that functions as a portfolio for Ryan Broadsword's webpage creations.
 
 * Clone this repository to your desktop. 
 * Navigate to the directory. 
-* Open inde.html
+* Open index.html
 
 ## Known Bugs 
 
@@ -31,3 +31,8 @@ A webpage that functions as a portfolio for Ryan Broadsword's webpage creations.
 ## Contact Information 
 
 * Ryan Broadsword - rbroadsword@gmail.com
+
+## GH-Pages 
+
+* rbroadsword.github.io/portfolio
+
