@@ -22,11 +22,6 @@ img{
   height: 20rem: 
 }
 
-figcaption {
-  float: right;
-}
-
-
 
 nav {
   min-height: 10vh;
@@ -36,6 +31,14 @@ nav {
   padding: 2rem;
   align-items: center;
   flex-wrap: wrap;
+}
+
+a:visited {
+  color: white; 
+}
+
+a:link {
+  color: white;
 }
 
 nav ul {
